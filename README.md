@@ -76,10 +76,28 @@ public class Chess {
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,sqlite,json,cs" />
 </p>
 
+### Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio" />
+</p>
+
 ### Tools
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=windows,powershell,figma,jira" />
+</p>
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio,windows,powershell,figma,jira" />
+
+<br><br>
+
+<img height="48" src="https://cdn.simpleicons.org/openai/white" title="ChatGPT / OpenAI">
+<img height="48" src="https://cdn.simpleicons.org/anthropic/white" title="Claude">
+<img height="48" src="https://cdn.simpleicons.org/notion/white" title="Notepad / Notes">
+
 </p>
 
 ---

@@ -112,3 +112,55 @@ Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 💭 *"Code, learn, improve, repeat."*
 
 </p>
+
+---
+
+# 🎯 Goals
+
+<p align="center">
+
+Become a **strong Backend Developer**
+
+Master **Java and Backend Architecture**
+
+Build **real-world backend projects**
+
+Learn **Spring Boot and API design**
+
+Contribute to **open source projects**
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ChessDW&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChessDW&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 My Approach to Coding
+
+<p align="center">
+
+Write **clean and understandable code**
+
+Focus on **strong programming fundamentals**
+
+Learn something **new every day**
+
+Build projects to **apply knowledge**
+
+Stay **curious and disciplined**
+
+</p>

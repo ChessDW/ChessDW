@@ -161,6 +161,22 @@ Use simpler code instead of **complicated methods**
 
 ---
 
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/reliableprogrammer/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/andrés-delgado-02589639a">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 <p align="center">
 💭 *"Code, learn, improve, repeat."*
 </p>

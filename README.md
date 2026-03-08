@@ -63,25 +63,31 @@ public class Chess {
 
 ## 🛠️ Technologies & Tools
 
+### Languages
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,html,css,git,vscode,idea,visualstudio" />
-
+<img src="https://skillicons.dev/icons?i=java,python,html,css" />
 </p>
 
+### Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,vscode,idea,visualstudio" />
+</p>
+
+---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ChessDW&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 🌟 Mindset
-
+<p align="center">
 Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
-
+</p>
 ---
-
-💭 *"Code, learn, improve, repeat."*
+<p align="center">
+💭 *"Code, learn, improve, repeat."
+</p>

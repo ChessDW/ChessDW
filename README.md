@@ -16,7 +16,7 @@ public class Chess {
     String focus = "Backend Development";
 
     String[] languages = {"Java", "Python", "HTML", "C#"};
-    
+
     String[] learning = {
         "Object Oriented Programming",
         "Data Structures",
@@ -51,16 +51,20 @@ public class Chess {
 
 # 💡 More About Me
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
 
 <ul>
-<li>🎓 Student focused on **Software Development**</li>
-<li>💻 Learning **Java, Python and Backend Development**</li>
+<li>🎓 Student focused on <b>Software Development</b></li>
+<li>💻 Learning <b>Java, Python and Backend Development</b></li>
 <li>🚀 Building projects to improve programming skills</li>
 <li>📚 Self-learner mindset</li>
 </ul>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -80,6 +84,18 @@ public class Chess {
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChessDW&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChessDW&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -90,11 +106,11 @@ public class Chess {
 
 # 🌟 Mindset
 
-<div align="center">
+<p align="center">
 
 Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 
-</div>
+</p>
 
 ---
 
@@ -108,17 +124,21 @@ Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 
 # 🎯 Goals
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
 
 <ul>
-<li>Become a **strong Backend Developer**</li>
-<li>Master **Java and Backend Architecture**</li>
-<li>Build **real-world backend projects**</li>
-<li>Learn **Spring Boot and API design**</li>
-<li>Contribute to **open source projects**</li>
+<li>Become a <b>strong Backend Developer</b></li>
+<li>Master <b>Java and Backend Architecture</b></li>
+<li>Build <b>real-world backend projects</b></li>
+<li>Learn <b>Spring Boot and API design</b></li>
+<li>Contribute to <b>open source projects</b></li>
 </ul>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -140,17 +160,22 @@ Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 
 # 🧠 My Approach to Coding
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
+
 <ul>
-<li>Write **clean and understandable code**</li>
-<li>Focus on **strong programming fundamentals**</li>
-<li>Learn something **new every day**</li>
-<li>Build projects to **apply knowledge**</li>
-<li>Stay **curious and disciplined**</li>
-<li>Use simpler code instead of **complicated methods**</li>
+<li>Write <b>clean and understandable code</b></li>
+<li>Focus on <b>strong programming fundamentals</b></li>
+<li>Learn something <b>new every day</b></li>
+<li>Build projects to <b>apply knowledge</b></li>
+<li>Stay <b>curious and disciplined</b></li>
+<li>Use simpler code instead of <b>complicated methods</b></li>
 </ul>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -158,11 +183,11 @@ Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 
 <p align="center">
 
-<a href="https://instagram.com/reliableprogrammer/">
+<a href="https://instagram.com/reliableprogrammer">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/andrés-delgado-02589639a">
+<a href="https://www.linkedin.com/in/andrés-delgado-02589639a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -171,5 +196,5 @@ Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 ---
 
 <p align="center">
-💭 *"Code, learn, improve, repeat."*
+💭 <i>"Code, learn, improve, repeat."</i>
 </p>

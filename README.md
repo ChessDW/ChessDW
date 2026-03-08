@@ -1,33 +1,50 @@
-# 👨‍💻 Allan Mauricio Morales
+# 👨‍💻 Andrés "Chess" Delgado Marín
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Java+Learner;Python+Developer;Always+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Java+Learner;Python+Developer;Always+Learning;AI+Enthusiast" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-```python
-class Allan:
-    def __init__(self):
-        self.name = "Allan Mauricio Morales"
-        self.role = "Programming Student"
-        self.focus = "Backend Development"
-        self.languages = ["Java", "Python", "HTML"]
-        self.learning = [
-            "Object Oriented Programming",
-            "Data Structures",
-            "Algorithms"
-        ]
-        self.tools = ["Git", "VS Code", "IntelliJ"]
-        self.hobbies = ["Programming", "Learning", "Studying"]
+```java
+public class Chess {
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile!")
+    String name = "Andrés Delgado";
+    String role = "Programming Student";
+    String focus = "Backend Development";
 
-me = Allan()
-me.say_hi()
+    String[] languages = {"Java", "Python", "HTML", "C#"};
+    
+    String[] learning = {
+        "Object Oriented Programming",
+        "Data Structures",
+        "Algorithms"
+    };
+
+    String[] tools = {
+        "Git",
+        "VS Code",
+        "IntelliJ",
+        "Visual Studio"
+    };
+
+    String[] hobbies = {
+        "Programming",
+        "Learning",
+        "Studying"
+    };
+
+    public void sayHi() {
+        System.out.println("Thanks for visiting my GitHub profile!");
+    }
+
+    public static void main(String[] args) {
+        Chess me = new Chess();
+        me.sayHi();
+    }
+}
 ```
 
 ---

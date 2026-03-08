@@ -51,26 +51,44 @@ public class Chess {
 
 # 💡 More About Me
 
-🎓 Student focused on **software development**
+<p align="center">
 
-💻 Learning **Java, Python and backend development**
+🎓 Student focused on **Software Development**
+
+💻 Learning **Java, Python and Backend Development**
 
 🚀 Building projects to improve programming skills
 
 📚 Self-learner mindset
 
+</p>
+
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 ### Languages
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,html,css" />
 </p>
 
 ### Tools
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,vscode,idea,visualstudio" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChessDW&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChessDW&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -84,12 +102,25 @@ public class Chess {
 ---
 
 # 🌟 Mindset
+
 <p align="center">
+
 Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/ChessDW/ChessDW/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
 <p align="center">
-💭 *"Code, learn, improve, repeat."
+
+💭 *"Code, learn, improve, repeat."*
+
 </p>

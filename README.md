@@ -85,21 +85,15 @@ public class Chess {
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=windows,powershell,figma,jira" />
-</p>
-
-<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio,windows,powershell,figma,jira" />
 
 <br><br>
 
-<img height="48" src="https://cdn.simpleicons.org/openai/white" title="ChatGPT / OpenAI">
-<img height="48" src="https://cdn.simpleicons.org/anthropic/white" title="Claude">
-<img height="48" src="https://cdn.simpleicons.org/notion/white" title="Notepad / Notes">
+<img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" title="ChatGPT / OpenAI">
+<img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" title="Claude">
 
 </p>
-
 ---
 
 # 🔥 GitHub Streak

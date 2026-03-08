@@ -170,7 +170,7 @@ Use simpler code instead of **complicated methods**
 </a>
 
 <a href="www.linkedin.com/in/andrés-delgado-02589639a">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>

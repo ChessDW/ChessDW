@@ -73,25 +73,13 @@ public class Chess {
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,sqlite,json,cs" />
 </p>
 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,vscode,idea,visualstudio" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChessDW&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChessDW&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio,windows,powershell,figma,jira" />
 </p>
 
 ---

@@ -107,14 +107,6 @@ Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 
 ---
 
-<p align="center">
-
-💭 *"Code, learn, improve, repeat."*
-
-</p>
-
----
-
 # 🎯 Goals
 
 <p align="center">
@@ -163,4 +155,12 @@ Build projects to **apply knowledge**
 
 Stay **curious and disciplined**
 
+Use simpler code instead of **complicated methods**
+
+</p>
+
+---
+
+<p align="center">
+💭 *"Code, learn, improve, repeat."*
 </p>

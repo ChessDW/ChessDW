@@ -51,17 +51,16 @@ public class Chess {
 
 # 💡 More About Me
 
-<p align="center">
+<div align="center">
 
-🎓 Student focused on **Software Development**
+<ul>
+<li>🎓 Student focused on **Software Development**</li>
+<li>💻 Learning **Java, Python and Backend Development**</li>
+<li>🚀 Building projects to improve programming skills</li>
+<li>📚 Self-learner mindset</li>
+</ul>
 
-💻 Learning **Java, Python and Backend Development**
-
-🚀 Building projects to improve programming skills
-
-📚 Self-learner mindset
-
-</p>
+</div>
 
 ---
 
@@ -91,11 +90,11 @@ public class Chess {
 
 # 🌟 Mindset
 
-<p align="center">
+<div align="center">
 
 Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 
-</p>
+</div>
 
 ---
 
@@ -109,19 +108,17 @@ Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 
 # 🎯 Goals
 
-<p align="center">
+<div align="center">
 
-Become a **strong Backend Developer**
+<ul>
+<li>Become a **strong Backend Developer**</li>
+<li>Master **Java and Backend Architecture**</li>
+<li>Build **real-world backend projects**</li>
+<li>Learn **Spring Boot and API design**</li>
+<li>Contribute to **open source projects**</li>
+</ul>
 
-Master **Java and Backend Architecture**
-
-Build **real-world backend projects**
-
-Learn **Spring Boot and API design**
-
-Contribute to **open source projects**
-
-</p>
+</div>
 
 ---
 
@@ -143,21 +140,17 @@ Contribute to **open source projects**
 
 # 🧠 My Approach to Coding
 
-<p align="center">
+<div align="center">
+<ul>
+<li>Write **clean and understandable code**</li>
+<li>Focus on **strong programming fundamentals**</li>
+<li>Learn something **new every day**</li>
+<li>Build projects to **apply knowledge**</li>
+<li>Stay **curious and disciplined**</li>
+<li>Use simpler code instead of **complicated methods**</li>
+</ul>
 
-Write **clean and understandable code**
-
-Focus on **strong programming fundamentals**
-
-Learn something **new every day**
-
-Build projects to **apply knowledge**
-
-Stay **curious and disciplined**
-
-Use simpler code instead of **complicated methods**
-
-</p>
+</div>
 
 ---
 

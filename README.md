@@ -85,15 +85,14 @@ public class Chess {
 ### Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio,windows,powershell,figma,jira" />
-
-<br><br>
-
-<img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" title="ChatGPT / OpenAI">
-<img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" title="Claude">
-
 </p>
+
+<p align="center">
+AI & Productivity Tools: ChatGPT • Claude • DeepSeek • Tinkercad • Notepad
+</p>
+
+
 ---
 
 # 🔥 GitHub Streak

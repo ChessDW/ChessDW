@@ -87,7 +87,9 @@ public class Chess {
 <p align="center">
 Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 </p>
+
 ---
+
 <p align="center">
 💭 *"Code, learn, improve, repeat."
 </p>

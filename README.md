@@ -73,7 +73,7 @@ public class Chess {
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,sqlite,json,cs" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,sqlite,cs" />
 </p>
 
 ### Development

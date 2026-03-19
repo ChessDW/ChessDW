@@ -26,7 +26,6 @@ public class Chess {
     String[] tools = {
         "Git",
         "VS Code",
-        "IntelliJ",
         "Visual Studio"
     };
 

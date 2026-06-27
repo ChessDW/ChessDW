@@ -91,6 +91,9 @@ public class Chess {
 AI & Productivity Tools: ChatGPT • Claude • DeepSeek • Tinkercad • Notepad
 </p>
 
+<p align="center">
+Methodologies: Scrum, Agile development, Sprint Planning.
+</p>
 
 ---
 

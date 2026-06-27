@@ -97,14 +97,6 @@ Methodologies: Scrum, Agile development, Sprint Planning.
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ChessDW&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🌟 Mindset
 
 <p align="center">

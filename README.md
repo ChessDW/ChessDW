@@ -99,11 +99,15 @@ Methodologies: Scrum, Agile development, Sprint Planning.
 
 # 🌟 Mindset
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 

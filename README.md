@@ -207,12 +207,12 @@ An overview of my technical and professional credentials issued by **Cisco Netwo
 
 <p align="center">
 
-<a href="https://instagram.com/reliableprogrammer">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/reliableprogrammer" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin: 5px;"/>
 </a>
 
-<a href="https://www.linkedin.com/in/andrés-delgado-02589639a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/andr%C3%A9s-delgado-02589639a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 5px;"/>
 </a>
 
 </p>

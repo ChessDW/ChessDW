@@ -123,6 +123,43 @@ Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 
 ---
 
+# 📜 Verified Certifications
+
+An overview of my verified technical and professional credentials issued by **Cisco Networking Academy**. You can verify them on my [Credly Profile](TU_LINK_DE_CREDLY_AQUÍ).
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/images/8470a7df-a720-4384-82ee-06a147050fa1/cisco-networking-academy-verified-badge.png" width="80px"/><br/>
+      <b>Networking Devices & Configuration</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/images/8470a7df-a720-4384-82ee-06a147050fa1/cisco-networking-academy-verified-badge.png" width="80px"/><br/>
+      <b>Python Essentials 1</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/images/8470a7df-a720-4384-82ee-06a147050fa1/cisco-networking-academy-verified-badge.png" width="80px"/><br/>
+      <b>English for IT (1 & 2)</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/images/8470a7df-a720-4384-82ee-06a147050fa1/cisco-networking-academy-verified-badge.png" width="80px"/><br/>
+      <b>IT Essentials</b>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>🔍 View more verified badges</summary>
+<br/>
+
+* 🔒 Introduction to Cybersecurity
+* 📊 Introduction to Data Science
+* 🌐 Networking Basics
+* 🔌 Introduction to IoT & Computer Hardware Basics
+</details>
+
+---
+
 # 🎯 Goals
 
 <table align="center">

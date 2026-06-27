@@ -125,38 +125,28 @@ Self-Learner 📚 | Curious 🔍 | Perseverant 💪 | Always Improving 🚀
 
 # 📜 Verified Certifications
 
-An overview of my verified technical and professional credentials issued by **Cisco Networking Academy**. You can verify them on my [Credly Profile](TU_LINK_DE_CREDLY_AQUÍ).
+An overview of my technical and professional credentials issued by **Cisco Networking Academy**. Click on any badge to verify its authenticity on **Credly**!
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://images.credly.com/images/8470a7df-a720-4384-82ee-06a147050fa1/cisco-networking-academy-verified-badge.png" width="80px"/><br/>
-      <b>Networking Devices & Configuration</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://images.credly.com/images/8470a7df-a720-4384-82ee-06a147050fa1/cisco-networking-academy-verified-badge.png" width="80px"/><br/>
-      <b>Python Essentials 1</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://images.credly.com/images/8470a7df-a720-4384-82ee-06a147050fa1/cisco-networking-academy-verified-badge.png" width="80px"/><br/>
-      <b>English for IT (1 & 2)</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://images.credly.com/images/8470a7df-a720-4384-82ee-06a147050fa1/cisco-networking-academy-verified-badge.png" width="80px"/><br/>
-      <b>IT Essentials</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.credly.com/badges/e7ae0251-2424-4051-aad9-82615f1d43ee/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" width="115" alt="Networking Devices and Initial Configuration" style="margin: 10px;" />
+  </a>
+  <a href="https://www.credly.com/badges/02dfb45c-5fbb-4fcc-9aa5-67e04ea463f5/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" width="115" alt="IT Essentials" style="margin: 10px;" />
+  </a>
+  <a href="https://www.credly.com/badges/4b94899f-fcec-4f3a-80e4-5f85675592d1/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" width="115" alt="English for IT 1" style="margin: 10px;" />
+  </a>
+  <a href="https://www.credly.com/badges/021ffb3a-6eea-447e-b4e4-f173c4d1f0d3/public_url" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/ca317486-3494-488b-b2a7-b49270d98f21/image.png" width="115" alt="English for IT 2" style="margin: 10px;" />
+  </a>
+</p>
 
-<details>
-<summary>🔍 View more verified badges</summary>
-<br/>
+<p align="center">
+  <sub>💡 <i>See all my verified credentials on my <a href="https://www.credly.com/users/andres-delgado.a5458f57" target="_blank">full Credly profile</a>.</i></sub>
+</p>
 
-* 🔒 Introduction to Cybersecurity
-* 📊 Introduction to Data Science
-* 🌐 Networking Basics
-* 🔌 Introduction to IoT & Computer Hardware Basics
-</details>
+---
 
 ---
 

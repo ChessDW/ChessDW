@@ -182,6 +182,8 @@ An overview of my technical and professional credentials issued by **Cisco Netwo
 
 [![Chess' GitHub stats](https://github-stats-extended.vercel.app/api?username=ChessDW)](https://github.com/stats-organization/github-stats-extended)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ChessDW&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ChessDW&langs_count=5&theme=dark)
+
 ---
 
 # 🧠 My Approach to Coding

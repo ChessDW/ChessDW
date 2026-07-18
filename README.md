@@ -149,8 +149,8 @@ An overview of my technical and professional credentials issued by **Cisco Netwo
 # 🎯 Goals
 
 <table align="center">
-<tr>
-<td>
+<tr align="center">
+<td align="center">
 
 <ul>
 <li>Become a <b>strong Backend Developer</b></li>

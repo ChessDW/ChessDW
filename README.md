@@ -180,13 +180,9 @@ An overview of my technical and professional credentials issued by **Cisco Netwo
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChessDW&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<div align="center">
 [![Chess' GitHub stats](https://github-stats-extended.vercel.app/api?username=ChessDW)](https://github.com/stats-organization/github-stats-extended)
-</div>
 
-<div align="center>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ChessDW&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=ChessDW&langs_count=5&theme=dark)
-</div>
 
 ---
 
